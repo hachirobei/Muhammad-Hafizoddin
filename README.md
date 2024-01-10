@@ -39,8 +39,6 @@
   <img alt="Bitbucket" src="https://img.shields.io/badge/-bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Fastapi" src="https://img.shields.io/badge/-fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
-   #
-   #
 </p>
 
 <h3>Where to find me</h3>
