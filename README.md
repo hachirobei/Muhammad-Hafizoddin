@@ -13,6 +13,31 @@ Hello! I'm Hafiz, currently casting digital spells as a Senior FullStack Develop
 Armed with a Degree in Computer Science from the National University of Malaysia and a Diploma in IT from Politeknik Tuanku Syed Sirajuddin, I'm always two steps ahead in this digital dance, ready to take on new challenges. As a Senior Full-stack Developer, I pledge to deliver not just code, but a symphony of seamless solutions.
 </p>
 
+<h2>🌟 Core Strengths: Coding, Planning, Leadership, & Management</h2>
+<p align="justify">
+  In my journey as a Senior FullStack Developer, I've cultivated a unique blend of skills that drives success in the tech world. Here's a glimpse into my core strengths:
+</p>
+
+<h3>👨‍💻 Coding Mastery:</h3>
+<p align="justify">
+  From intricate back-end systems to dynamic front-end interfaces, my coding skills span across various languages and frameworks. I thrive on writing clean, efficient, and scalable code, always eager to embrace new technologies and methodologies.
+</p>
+
+<h3>📈 Strategic Planning:</h3>
+<p align="justify">
+  I excel in breaking down complex projects into manageable parts, ensuring every phase of development is executed flawlessly. My planning skills are not just about timelines; they're about envisioning and executing a roadmap to technological   innovation.
+</p>
+
+<h3>🎓 Leadership:</h3>
+<p align="justify">
+  As a leader, I believe in empowering my team, fostering an environment of open communication and collaborative problem-solving. My leadership is about guiding, inspiring, and setting a standard of excellence.
+</p>
+
+<h3>🔍 Management Expertise:</h3>
+<p align="justify">
+  Efficient management is key to project success. I adeptly juggle various aspects of projects, from resource allocation to deadline adherence, ensuring every project I touch runs smoothly and exceeds expectations.
+</p>
+
 <p align="justify">
 If you're scouting for a tech maestro to elevate your projects, let's sync up! Whether it's front-end flair or back-end brilliance, I'm your go-to wizard. 🎨
 </p>
