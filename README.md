@@ -1,11 +1,21 @@
 
-<h1 align="center">Hi, I'm Muhammad Hafizoddin</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Hafizoddin</h1>
 
 <p align="center">
   <img src="https://github.com/hachirobei/hachirobei/blob/main/images/welome_to_my_profile.png" width="100%" title="hover text">
 </p>
 
-<p align="justify">As an experienced and highly skilled software development professional, I bring a wealth of knowledge and expertise to the table. I am a detail-oriented, organized, and meticulous employee who works efficiently to meet tight deadlines. I thrive in a team environment and am eager to contribute to the success of any company. With a background in developing systems for Telecommunication applications, I possess complex problem-solving skills, an analytical mindset, and a drive to achieve demanding development objectives while producing impeccable code. I am an organized and dependable candidate who excels at managing multiple priorities with a positive attitude, and I am always willing to take on additional teams to achieve its goals. Additionally, I am proficient in a variety of in-demand programming languages and have a strong background in software design, development, and integration. I have the ability to handle multiple projects simultaneously while maintaining a high degree of accuracy. If you are seeking a highly skilled software development professional who is dedicated to achieving excellence and contributing to company success, I am the candidate you are looking for.</p>
+<p align="justify"> 
+Hello! I'm Hafiz, currently casting digital spells as a Senior FullStack Developer at Nippon Paint (M) Sdn Bhd. With a 9-year saga in tech, I've become the wizard of innovative solutions in Manufacturing. My journey began in the deep seas of Telecommunications at Time DotCom Sdn Bhd, where I honed my coding craft. I'm not just a coder; I'm a creator of digital art, ensuring each line of code aligns with the grand vision of the business. 🚀
+</p>
+
+<p align="justify">
+Armed with a Degree in Computer Science from the National University of Malaysia and a Diploma in IT from Politeknik Tuanku Syed Sirajuddin, I'm always two steps ahead in this digital dance, ready to take on new challenges. As a Senior Full-stack Developer, I pledge to deliver not just code, but a symphony of seamless solutions.
+</p>
+
+<p align="justify">
+If you're scouting for a tech maestro to elevate your projects, let's sync up! Whether it's front-end flair or back-end brilliance, I'm your go-to wizard. 🎨
+</p>
 
 <h2>🚀 Skills and Technologies</h2>
 
